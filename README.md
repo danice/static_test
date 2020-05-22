@@ -1,0 +1,1 @@
+# static_test
